@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Resources" t="Include">
+          <e p="TestAssets" t="Include">
+            <e p="TestLayouts" t="Include">
+              <e p="11x11 [abstract].txt" t="Include" />
+              <e p="11X12 - [up].txt" t="Include" />
+              <e p="12X12 - [#].txt" t="Include" />
+              <e p="13X11 - [1].txt" t="Include" />
+              <e p="13x14 - [caro].txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ScriptableObject" t="Include">
+          <e p="LevelData.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="level ViewModel Script" t="Include">
+            <e p="LevelHolder.cs" t="Include" />
+            <e p="LevelLocker.cs" t="Include" />
+            <e p="SelectLevel.cs" t="Include" />
+            <e p="StarsLocker.cs" t="Include" />
+          </e>
+          <e p="Puzzle Game Controller" t="Include">
+            <e p="CreatePuzzleButtons.cs" t="Include" />
+            <e p="LayoutPuzzleButtons.cs" t="Include" />
+            <e p="LoadPuzzleGame.cs" t="Include" />
+            <e p="PuzzleGameManager.cs" t="Include" />
+            <e p="SetupPuzzleGame.cs" t="Include" />
+          </e>
+          <e p="Puzzle Game Save" t="Include">
+            <e p="GameData.cs" t="Include" />
+            <e p="PuzzleGameSaver.cs" t="Include" />
+          </e>
+          <e p="View Models" t="Include">
+            <e p="GameFinishedViewModel.cs" t="Include" />
+            <e p="GameplayMainViewModel.cs" t="Include" />
+            <e p="MainDialogViewModel.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Mahjong.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Mahjong.-1515343641.00" t="ExcludeRecursive" />
+  </component>
+</project>
